@@ -1,0 +1,26 @@
+{
+  "name": "first-node",
+  "version": "1.0.0",
+  "description": "First Node.js with Simplon.co Lyon's promo 3",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hayetadam/first-node.git"
+  },
+  "keywords": [
+    "Simplon.co",
+    "Node.js"
+  ],
+  "author": "Hayet Simplon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hayetadam/first-node/issues"
+  },
+  "homepage": "https://github.com/hayetadam/first-node#readme",
+  "dependencies": {
+    "mysql": "^2.14.1"
+  }
+}
